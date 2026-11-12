@@ -1,5 +1,4 @@
 # -OCR-Web-
-# 初期化pythonの環境インストール：pip install -r requirements.txt
 
 # Step1
 ## 起動Docker：docker compose up -d
