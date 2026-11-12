@@ -9,4 +9,7 @@
 ## Docker削除：docker rm name
 
 # Step2
+## pip install -r requirements.txt
+
+# Step3
 ## Python起動方法：streamlit run app.py
