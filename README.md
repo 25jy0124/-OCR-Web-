@@ -4,9 +4,9 @@
 #Step1
 ## 起動Docker：docker compose up -d
 ## Docker状態確認：docker ps -a
-## Docker停止：docker compose stop　または　docker kill <name>
+## Docker停止：docker compose stop　または　docker kill name
 ## Dockerリスタート：docker compose restart
-## Docker削除：docker rm
+## Docker削除：docker rm name
 
 #Step2
 ## Python起動方法：streamlit run app.py
