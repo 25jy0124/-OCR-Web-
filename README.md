@@ -13,3 +13,4 @@
 
 # Step3
 ## Python起動方法：streamlit run app.py
+## python3 -m streamlit run app.py
